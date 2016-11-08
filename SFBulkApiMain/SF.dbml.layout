@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 12.875, 29.75" name="SF">
+  <DataContextMoniker Name="/SFDataContext" />
+  <nestedChildShapes>
+    <classShape Id="82d5c99a-710c-4bcc-98b1-60ceb9fd222b" absoluteBounds="6.75, 2, 2, 27.539288736979167">
+      <DataClassMoniker Name="/SFDataContext/Account" />
+      <nestedChildShapes>
+        <elementListCompartment Id="135c5e11-a27c-4701-a87e-32e580600aa0" absoluteBounds="6.765, 2.46, 1.9700000000000002, 26.979288736979164" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="846bda05-5b0f-4f3c-a3fd-ed5163bb240a" absoluteBounds="10.625, 2.875, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/SFDataContext/Maklerverknuepfung__c" />
+      <nestedChildShapes>
+        <elementListCompartment Id="49353826-2664-4464-861f-bee55d39c163" absoluteBounds="10.64, 3.335, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b25f2173-f04f-4364-b639-53232e50f0a4" absoluteBounds="9.75, 8.5, 2, 18.501121419270834">
+      <DataClassMoniker Name="/SFDataContext/ZDF_Aggregation__c" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f48e9866-90b1-49b6-b21a-16cea3468c96" absoluteBounds="9.765, 8.96, 1.9700000000000002, 17.941121419270832" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

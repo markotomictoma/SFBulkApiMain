@@ -1,0 +1,20 @@
+c:\Users\XTOMIM\Downloads\Salesforce-Bulk-API-Starter-master\src\SFBulkAPIStarterTest\bin\Debug\SFBulkAPIStarterTest.dll.config
+c:\Users\XTOMIM\Downloads\Salesforce-Bulk-API-Starter-master\src\SFBulkAPIStarterTest\bin\Debug\SFBulkAPIStarterTest.dll
+c:\Users\XTOMIM\Downloads\Salesforce-Bulk-API-Starter-master\src\SFBulkAPIStarterTest\bin\Debug\SFBulkAPIStarterTest.pdb
+c:\Users\XTOMIM\Downloads\Salesforce-Bulk-API-Starter-master\src\SFBulkAPIStarterTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\XTOMIM\Downloads\Salesforce-Bulk-API-Starter-master\src\SFBulkAPIStarterTest\bin\Debug\SFBulkAPIStarter.dll
+c:\Users\XTOMIM\Downloads\Salesforce-Bulk-API-Starter-master\src\SFBulkAPIStarterTest\bin\Debug\SFBulkAPIStarter.pdb
+c:\Users\XTOMIM\Downloads\Salesforce-Bulk-API-Starter-master\src\SFBulkAPIStarterTest\obj\Debug\SFBulkAPIStarterTest.csprojResolveAssemblyReference.cache
+c:\Users\XTOMIM\Downloads\Salesforce-Bulk-API-Starter-master\src\SFBulkAPIStarterTest\obj\Debug\SFBulkAPIStarterTest.dll
+c:\Users\XTOMIM\Downloads\Salesforce-Bulk-API-Starter-master\src\SFBulkAPIStarterTest\obj\Debug\SFBulkAPIStarterTest.pdb
+c:\Users\XTOMIM\git projects\SF bulk api\src\SFBulkAPIStarterTest\bin\Debug\SFBulkAPIStarterTest.dll.config
+c:\Users\XTOMIM\git projects\SF bulk api\src\SFBulkAPIStarterTest\bin\Debug\SFBulkAPIStarterTest.dll
+c:\Users\XTOMIM\git projects\SF bulk api\src\SFBulkAPIStarterTest\bin\Debug\SFBulkAPIStarterTest.pdb
+c:\Users\XTOMIM\git projects\SF bulk api\src\SFBulkAPIStarterTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\XTOMIM\git projects\SF bulk api\src\SFBulkAPIStarterTest\bin\Debug\SFBulkAPIStarter.dll
+c:\Users\XTOMIM\git projects\SF bulk api\src\SFBulkAPIStarterTest\bin\Debug\SFBulkAPIStarter.pdb
+c:\Users\XTOMIM\git projects\SF bulk api\src\SFBulkAPIStarterTest\obj\Debug\SFBulkAPIStarterTest.csprojResolveAssemblyReference.cache
+c:\Users\XTOMIM\git projects\SF bulk api\src\SFBulkAPIStarterTest\obj\Debug\SFBulkAPIStarterTest.dll
+c:\Users\XTOMIM\git projects\SF bulk api\src\SFBulkAPIStarterTest\obj\Debug\SFBulkAPIStarterTest.pdb
+c:\Users\XTOMIM\git projects\SF bulk api\src\SFBulkAPIStarterTest\bin\Debug\Newtonsoft.Json.dll
+c:\Users\XTOMIM\git projects\SF bulk api\src\SFBulkAPIStarterTest\bin\Debug\Newtonsoft.Json.xml
